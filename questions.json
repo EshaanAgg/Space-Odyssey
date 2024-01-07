@@ -2,7 +2,7 @@
 	{
 		"no": 1,
 		"type": "i",
-		"text": "1.png",
+		"text": "1.webp",
 		"ans": "85",
 		"hint": "Check our Instagram page for the answer!",
 		"difficulty": "start",
@@ -12,7 +12,7 @@
 	{
 		"no": 2,
 		"type": "i",
-		"text": "2.png",
+		"text": "2.webp",
 		"ans": "8",
 		"hint": "Checkout our website technex.co.in for the answer!",
 		"difficulty": "start",
@@ -22,7 +22,7 @@
 	{
 		"no": 3,
 		"type": "i",
-		"text": "3.png",
+		"text": "3.webp",
 		"ans": "3",
 		"hint": "Google is your best friend!",
 		"difficulty": "easy",
@@ -32,7 +32,7 @@
 	{
 		"no": 4,
 		"type": "i",
-		"text": "4.png",
+		"text": "4.webp",
 		"ans": "constellation",
 		"hint": "Orion, Hunter's belt and Dipper are some examples of this!",
 		"difficulty": "easy",
@@ -42,7 +42,7 @@
 	{
 		"no": 5,
 		"type": "i",
-		"text": "5.png",
+		"text": "5.webp",
 		"ans": "polyglot",
 		"hint": "The event was made to cater to people who were procient in multiple languages, and thus were _______'s.",
 		"difficulty": "medium",
@@ -52,7 +52,7 @@
 	{
 		"no": 6,
 		"type": "i",
-		"text": "6.png",
+		"text": "6.webp",
 		"ans": "interstellar",
 		"hint": "Christopher Nolan FTW",
 		"difficulty": "medium",
@@ -62,7 +62,7 @@
 	{
 		"no": 7,
 		"type": "i",
-		"text": "7.png",
+		"text": "7.webp",
 		"ans": "astropy",
 		"hint": "It starts with A and ends with PY",
 		"difficulty": "medium",
@@ -72,7 +72,7 @@
 	{
 		"no": 8,
 		"type": "i",
-		"text": "8.png",
+		"text": "8.webp",
 		"ans": "cosinesimilarity",
 		"hint": "It's a mathematical term, often used with dot products.",
 		"difficulty": "hard",
@@ -82,7 +82,7 @@
 	{
 		"no": 9,
 		"type": "i",
-		"text": "9.png",
+		"text": "9.webp",
 		"ans": "orion",
 		"hint": "Have you ever heard about Binary to ASCII decoders on the web?",
 		"difficulty": "hard",
@@ -92,7 +92,7 @@
 	{
 		"no": 10,
 		"type": "i",
-		"text": "10.png",
+		"text": "10.webp",
 		"ans": "yes",
 		"hint": "It's definitely not a no.",
 		"difficulty": "hard",
