@@ -12,6 +12,9 @@ WORKDIR /space-odyssey
 
 COPY . .
 
-CMD gunicorn --bind 0.0.0.0:80 --workers 20 wsgi:app
+CMD gunicorn wsgi:app \
+    --timeout 600 \
+    --bind 0.0.0.0:80 \
+    --workers 5 
 
 EXPOSE 80
